@@ -1,0 +1,24 @@
+{
+  "name": "st_testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hajimenagata@bitbucket.org/hajimenagata/st_testproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/hajimenagata/st_testproject#readme",
+  "devDependencies": {
+    "ejs": "^2.5.7",
+    "mongodb": "^2.2.31",
+    "express": "^4.15.4",
+    "forever": "^0.15.3",
+    "mongoose": "^4.11.10"
+  }
+}
